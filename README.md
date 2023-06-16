@@ -1,6 +1,3 @@
-![Screenshot from 2023-06-10 13-24-46](https://github.com/moseschengo29/project-1/assets/101453432/6d131d39-7dbf-41ab-876c-2064c09bef95)
-![Screenshot from 2023-06-10 13-22-39](https://github.com/moseschengo29/project-1/assets/101453432/6468a037-0f06-4f28-9268-0debc6ce7b61)
-![Screenshot from 2023-06-10 13-22-51](https://github.com/moseschengo29/project-1/assets/101453432/accf639a-7a91-445f-821c-b59fd3371e73)
-![Screenshot from 2023-06-10 13-23-14](https://github.com/moseschengo29/project-1/assets/101453432/5805495e-9e8c-418b-837c-4c2219c90ef0)
-![Screenshot from 2023-06-10 13-23-24](https://github.com/moseschengo29/project-1/assets/101453432/10150380-27d5-4523-a4a0-33588f4d500b)
-![Screenshot from 2023-06-10 13-24-37](https://github.com/moseschengo29/project-1/assets/101453432/3ae4b7d4-2ced-4839-8a4e-eb2282eef762)
+DEMO
+View the demonstration over here >>> https://moseschengo29.github.io/project-1/
+
